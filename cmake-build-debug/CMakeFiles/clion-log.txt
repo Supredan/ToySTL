@@ -1,0 +1,5 @@
+"D:\Program Files\JetBrains\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\C++workspace\ToySTL
+-- The version of this project is: 0.1.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/C++workspace/ToySTL/cmake-build-debug
